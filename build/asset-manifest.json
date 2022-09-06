@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cvR/static/css/main.89938654.css",
+    "main.js": "/cvR/static/js/main.ba1a3a4d.js",
+    "index.html": "/cvR/index.html",
+    "main.89938654.css.map": "/cvR/static/css/main.89938654.css.map",
+    "main.ba1a3a4d.js.map": "/cvR/static/js/main.ba1a3a4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89938654.css",
+    "static/js/main.ba1a3a4d.js"
+  ]
+}
